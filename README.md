@@ -30,7 +30,3 @@ I'm **Kevin Li**, a mathematics student at **Zhejiang Sci-Tech University**. My 
 | **[math-modeling.skill](https://github.com/ai-lcs/math-modeling.skill)** | An end-to-end Codex Skill for mathematical modeling: problem selection, data audit, model design, validation, visualization, paper writing, and submission review. |
 | **[2026 MCM Problem C — Honorable Mention](https://github.com/ai-lcs/2026-MCM-Problem-C-Honorable-Mention)** | Our first university-level MCM project, including the problem, submitted paper, award certificate, and a concise account of the modeling approach. |
 | **[Personal blog](https://ai-lcs.github.io/)** | Longer notes on mathematical modeling, learning, and the practical use of AI tools. |
-
-<sub>Learning in public · Building carefully · Keeping results auditable</sub>
-
-</div>

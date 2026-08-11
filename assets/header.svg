@@ -1,0 +1,56 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kevin Li — Mathematics, Modeling, and AI for Science</title>
+  <desc id="desc">A dark blue banner with a mathematical curve, connected nodes, and Kevin Li's research interests.</desc>
+  <defs>
+    <linearGradient id="background" x1="70" y1="20" x2="1130" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071A2F"/>
+      <stop offset="0.52" stop-color="#123A63"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <linearGradient id="curve" x1="720" y1="248" x2="1120" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9" stop-opacity="0.18"/>
+      <stop offset="0.5" stop-color="#93C5FD" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#5EEAD4" stop-opacity="0.28"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#E0F2FE" stroke-opacity="0.055"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+  <circle cx="1110" cy="42" r="170" fill="#2DD4BF" fill-opacity="0.06"/>
+  <circle cx="1010" cy="272" r="205" fill="#60A5FA" fill-opacity="0.055"/>
+  <g opacity="0.9">
+    <path d="M720 238C777 237 791 166 848 174C902 181 905 250 959 235C1018 219 1036 90 1128 76" stroke="url(#curve)" stroke-width="3" stroke-linecap="round"/>
+    <path d="M720 249H1138" stroke="#BAE6FD" stroke-opacity="0.18"/>
+    <path d="M736 270V58" stroke="#BAE6FD" stroke-opacity="0.18"/>
+    <g fill="#A5F3FC" filter="url(#glow)">
+      <circle cx="848" cy="174" r="5"/>
+      <circle cx="959" cy="235" r="5"/>
+      <circle cx="1060" cy="121" r="5"/>
+    </g>
+    <g stroke="#99F6E4" stroke-opacity="0.4">
+      <path d="M836 105L900 75L952 116L1022 73"/>
+      <path d="M836 105L848 174L952 116L959 235L1060 121L1022 73"/>
+    </g>
+    <g fill="#CCFBF1">
+      <circle cx="836" cy="105" r="3.5"/>
+      <circle cx="900" cy="75" r="3.5"/>
+      <circle cx="952" cy="116" r="3.5"/>
+      <circle cx="1022" cy="73" r="3.5"/>
+    </g>
+  </g>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif">
+    <text x="72" y="112" fill="#FFFFFF" font-size="54" font-weight="700" letter-spacing="0.4">Kevin Li</text>
+    <text x="74" y="160" fill="#BAE6FD" font-size="24" font-weight="500" letter-spacing="1.1">MATHEMATICS · MODELING · AI FOR SCIENCE</text>
+    <rect x="74" y="190" width="510" height="1" fill="#7DD3FC" fill-opacity="0.5"/>
+    <text x="74" y="230" fill="#E0F2FE" font-size="19" font-weight="400">From questions and data to reproducible evidence.</text>
+  </g>
+</svg>

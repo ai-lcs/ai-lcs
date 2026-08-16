@@ -18,8 +18,6 @@
 
 </div>
 
-## Hello
-
 I'm **Kevin Li**, a mathematics student at **Zhejiang Sci-Tech University**. My current interests sit at the intersection of mathematical modeling, machine learning, and reproducible research.
 
 - 🧩 Building practical workflows for mathematical-modeling projects
